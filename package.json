@@ -1,0 +1,16 @@
+{
+  "name": "marathon-zookeeper-test",
+  "version": "0.0.0",
+  "description": "Example repo for monitoring Marathon's ZooKeeper activities",
+  "main": "index.js",
+  "dependencies": {
+    "protobuf": "~0.8.7",
+    "zookeeper": "~3.4.6-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Trudel <mtrudel@wizcorp.jp>",
+  "license": "MIT"
+}
